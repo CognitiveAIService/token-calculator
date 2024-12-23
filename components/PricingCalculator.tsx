@@ -24,7 +24,7 @@ import {
 } from "@/components/ui/tooltip";
 import { Badge } from "@/components/ui/badge";
 import { Separator } from "@/components/ui/separator";
-import { InfoIcon, Mail, Phone } from 'lucide-react';
+import { InfoIcon, Mail } from 'lucide-react';
 
 interface Prices {
   input: {
